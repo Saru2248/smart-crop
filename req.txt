@@ -1,0 +1,4 @@
+ streamlit run "E:\codealpha\smart crop\app.py"
+217e7333d781ce97c2904a72e1e0db0e
+streamlit run app.py
+API_KEY = "79a13de45233d9a4271f"
