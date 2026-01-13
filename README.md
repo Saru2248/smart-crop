@@ -9,6 +9,9 @@ The Smart Agriculture Management System is an integrated software solution desig
 This repository contains all modules required to run, test, and deploy the system.
 
 2. Key Features
+
+
+
 2.1 Crop Recommendation System
 
 Predicts the most suitable crop using a trained machine learning model (crop_model.joblib).
